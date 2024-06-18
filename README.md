@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Gisa M. Caleb
+### 🔭 I’m currently working to improve my software development skills
+### I do Full-stack development
+
 
 <!--
 **Calebgisa72/Calebgisa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
