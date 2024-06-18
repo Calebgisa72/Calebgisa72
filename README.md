@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Gisa M. Caleb
-### 🔭 I’m currently working to improve my software development skills
-### I do Full-stack development
+- 🔭 I’m currently working to improve my software development skills
+- I do Full-stack development
 
 
 <!--
