@@ -1,4 +1,4 @@
-<h1 >Hi There👋, I'm  Gisa M. Caleb</h1>
+### Hi There👋, I'm  Gisa M. Caleb
 - 🔭 I’m currently increasing my software development skills
 - 🌱 I’m currently using **NODEJS, Express js**(backend)
 - 🌱 I’m currently learning **React, Redux*
