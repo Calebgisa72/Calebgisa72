@@ -1,7 +1,7 @@
 ### Hi There👋, I'm  Gisa M. Caleb
 - 🔭 I’m currently increasing my software development skills
 - 🌱 I’m currently using **NODEJS, Express js**(backend)
-- 🌱 I’m currently learning **React, Redux*
+- 🌱 I’m currently learning **React.JS | Redux, Next.JS*
 - 📫 Reach me **gisacaleb72@gmail.com**
 - I do Full-stack development
 
