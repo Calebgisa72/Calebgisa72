@@ -1,10 +1,10 @@
 ### Hi There👋, I'm  Gisa M. Caleb
-- 🔭 I’m currently increasing my software development skills
-- 🌱 I’m currently using **NODEJS, Express js**(backend)
-- 🌱 I’m currently using **React.JS | Redux, Next.JS*
-- 🌱 I’m currently focusing on **Flutter**(mobile application)
-- 📫 Reach me **gisacaleb72@gmail.com**
-- I do Full-stack development
+🔭 I’m currently sharpening my **software development** skills  
+🚀 Backend: **Node.js | Express.js**  
+⚛️ Frontend: **React.js | Redux | Next.js**  
+📱 Mobile: **Flutter**  
+📬 Reach me at: **gisacaleb72@gmail.com**  
+🌍 I do **Full-Stack Development**
 
 
 ### 💻 Tech Stack:
