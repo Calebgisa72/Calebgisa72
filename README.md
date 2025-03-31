@@ -2,7 +2,7 @@
 - 🔭 I’m currently increasing my software development skills
 - 🌱 I’m currently using **NODEJS, Express js**(backend)
 - 🌱 I’m currently using **React.JS | Redux, Next.JS*
-- - 🌱 I’m currently focusing on **Flutter**(mobile application)
+- 🌱 I’m currently focusing on **Flutter**(mobile application)
 - 📫 Reach me **gisacaleb72@gmail.com**
 - I do Full-stack development
 
