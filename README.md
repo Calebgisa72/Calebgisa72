@@ -1,7 +1,7 @@
 ### Hi There👋, I'm  Gisa M. Caleb
 🔭 I’m currently sharpening my **software development** skills  
 🚀 Backend: **Node.js | Express.js | Nest.js | GraphQL**  
-⚛️ Frontend: **React.js | Redux | Next.js**  
+⚛️ Frontend: **React.js | Redux | Next.js | Laravel**  
 📱 Mobile: **Flutter**  
 📬 Reach me at: **gisacaleb72@gmail.com**  
 🌍 I do **Full-Stack Development**
